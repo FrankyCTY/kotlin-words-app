@@ -7,6 +7,8 @@
         <entry key="app/src/main/res/drawable/ic_linear_layout.xml" value="0.33489583333333334" />
         <entry key="app/src/main/res/layout/activity_detail.xml" value="0.18333333333333332" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_letter_list.xml" value="0.16077898550724637" />
+        <entry key="app/src/main/res/layout/fragment_word_list.xml" value="0.16077898550724637" />
         <entry key="app/src/main/res/layout/item_view.xml" value="0.18333333333333332" />
         <entry key="app/src/main/res/menu/layout_menu.xml" value="0.31875" />
       </map>
